@@ -18,5 +18,5 @@ J'aime passer de la théorie des modèles à leur mise en pratique dans du code 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderraouf%20Rahmani-0A66C2?logo=linkedin)](https://linkedin.com/in/ton-profil)
-[![Email](https://img.shields.io/badge/Email-ton.email@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-site-222?logo=html5)](https://ton-portfolio)
+[![Email](https://img.shields.io/badge/Email-ton.email@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:Abderraouf Rahmani <Abderraouf.rahmani@etu.univ-paris1.fr>)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-site-222?logo=html5)](https://ton-portfolio](https://raoufrahmani.github.io/Portfolio/index.html))
